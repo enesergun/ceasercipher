@@ -15,9 +15,9 @@ key = {'a':'n', 'b':'o', 'c':'p', 'd':'q', 'e':'r', 'f':'s', 'g':'t', 'h':'u',
        \'G':'T', 'H':'U', 'I':'V', 'J':'W', 'K':'X', 'L':'Y', 'M':'Z', 'N':'A', 
        \'O':'B', 'P':'C', 'Q':'D', 'R':'E', 'S':'F', 'T':'G', 'U':'H', 'V':'I', 
        \'W':'J', 'X':'K', 'Y':'L', 'Z':'M'} 
-Your task in this exercise is to implement an encoder/decoder of ROT-13.
-Once you're done, you will be able to read the following secret message:
-   Pnrfne pvcure? V zhpu cersre Pnrfne fnynq!
-Note that since English has 26 characters, your ROT-13 program will be able to both encode and decode texts written in
-English.
+\Your task in this exercise is to implement an encoder/decoder of ROT-13.
+\Once you're done, you will be able to read the following secret message:
+   \Pnrfne pvcure? V zhpu cersre Pnrfne fnynq!
+\Note that since English has 26 characters, your ROT-13 program will be able to both encode and decode texts written in
+\English.
  
